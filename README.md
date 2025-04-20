@@ -5,11 +5,10 @@
 To deploy this project, run the following command in your terminal:
 
 ```bash
-streamlit main.py
 ```
 
-> **Note:** The main code for the web application is located in `ui3.py`. This file provides the user interface and integrates all the disease prediction models. Make sure you have all required dependencies installed (see `requirements.txt`).
-<p>A disease predictive system using machine learning can mainly for diabetes and heart disease related make existing healthcare tasks easier, safer, and more effective by providing accurate predictions and personalized recommendations based on individual health data. It has the potential to revolutionize healthcare by enabling earlier detection, more effective prevention, and better treatment of diseases.</p>
+> **Note:** The main code for the web application is located in `main2.py`. This file provides the user interface and integrates all the disease prediction models. Make sure you have all required dependencies installed (see `requiremgit remote set-url origin [https://github.com/ansarirayyan01/Disease-Prediction-ML.git](https://github.com/ansarirayyan01/Disease-Prediction-ML.git)ents.txt`).
+<p>A disease predictive system using machine learning can mainly for diabetes and heart disease related make existing healthcare tasks easier, safer, and more effective by providing accurate predictions and personalized recommendations based on indigit remote set-url origin [https://github.com/ansarirayyan01/Disease-Prediction-ML.git](https://github.com/ansarirayyan01/Disease-Prediction-ML.git)vidual health data. It has the potential to revolutionize healthcare by enabling earlier detection, more effective prevention, and better treatment of diseases.</p>
 
 
 ## GOAL
